@@ -15,6 +15,8 @@ Ahora agregamos un error como una variable no declarada y la ausencia del códig
 ![image](https://github.com/AbrahamPP2000/Analizador-Semantico/assets/97979648/46ab9970-aef9-4d4e-b985-edbb97f08e96)
 
 
+![image](https://github.com/AbrahamPP2000/Analizador-Semantico/assets/97979648/a882a964-903e-4378-8048-4b6e84dd5bc4)
+
 
 
 
